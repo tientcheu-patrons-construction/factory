@@ -1,4 +1,4 @@
-# Patron Factory Method
+# Patron Factory 
 
 Devoir n°1 – Patrons de construction (INF461)
 TIENTCHEU TCHOKOUATOU Emmanuel – 20Q2998
